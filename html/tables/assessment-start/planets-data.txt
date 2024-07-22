@@ -36,7 +36,7 @@ Length of day (hours)
 Distance from Sun (10<sup>6</sup>km)
 Mean temperature (°C)
 Number of moons
-Number of moons
+Notes
 
 Caption
 
